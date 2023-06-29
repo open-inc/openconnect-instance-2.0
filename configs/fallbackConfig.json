@@ -1,0 +1,31 @@
+{
+  "devices": [
+    {
+      "objectId": "X",
+      "name": "X",
+      "connectionString": "x",
+      "enabled": true,
+      "extraOptions": {
+        "host": "x",
+        "username": "x",
+        "password": "x",
+        "clientId": "x"
+      },
+      "interval": 1000
+    }
+  ],
+  "items": [
+    {
+      "objectId": "x",
+      "label": "x",
+      "address": "x",
+      "unit": "x",
+      "enabled": true,
+      "DeviceID": "x",
+      "OWSource": "x",
+      "note": "x",
+      "extraOptions": {},
+      "type": "Number"
+    }
+  ]
+}
